@@ -8,20 +8,25 @@ html{
 }
         
 body{
-    background-color:#060042;
-    background-image:linear-gradient(#7bf78c 2%, #035307 108%);
+    background-color:#4EA1A6;
     color:#fff;
     min-height:100vh;
     text-align:center;
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Noto Serif', serif;
 }
     
 .logo{
     width:400px
 }
+
+.icons{
+    font-size:3em;
+}
     
 a.featured:hover,a:hover{
-    background-color:#0bc029;color:#fff
+    background-color:#F4C000;
+    color:#fff;
+    font-weight:700;
 }
 
 a{
@@ -50,7 +55,6 @@ a.featured:before{
     left:2px;
     width:calc(100% - 4px);
     height:calc(100% - 4px);
-    border:2px solid #05a81b
 }
 
 h2{
