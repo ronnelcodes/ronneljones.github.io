@@ -8,9 +8,6 @@ html{
 }
         
 body{
-    background-color:#060042;
-    background-image:linear-gradient(#7bf78c 2%, #035307 108%);
-    color:#fff;
     min-height:100vh;
     text-align:center;
     font-family: 'Open Sans Condensed', sans-serif;
@@ -30,7 +27,7 @@ a{
     margin:0 auto 15px;
     padding:15px 20px;
     font-size: 1rem;
-    color:#fff;
+    color:#000;
     border:2px solid #fff;
     text-decoration:none;
     transition:all .2s ease-in-out
